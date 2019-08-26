@@ -1,4 +1,4 @@
-# Docker Bangalore Meetup Community Page
+# Docker Chennai Meetup Community Page
 
 Welcome to the Docker Chennai Meetup Community repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
